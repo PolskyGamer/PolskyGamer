@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PolskyGamer
+- 👀 I’m interested in Mario
+- I like programming in Scratch
